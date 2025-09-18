@@ -307,16 +307,4 @@ class Program
         }
     }
 
-    string test(StringBuilder sb)
-    {
-        string res = sb.ToString();
-        foreach (char c in res)
-        {
-            if (c == 'a')
-            {
-                sb.Append(c);
-            }
-        }
-        return sb.ToString();
-    }
 }

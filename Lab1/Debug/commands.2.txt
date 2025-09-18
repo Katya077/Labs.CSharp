@@ -1,6 +1,0 @@
-diff	PREDICTED: similar to double homeobox	metallothionein 2A
-search	VLLYISSVYVLPRYN
-mode	C-FLIP AMPA glutamate
-diff	Cecropin	Cecropin
-search	LIVM
-mode	metallothionein 2A
